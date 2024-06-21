@@ -1,3 +1,5 @@
+# Projeto de Sistema de Detecção Facial com IA
+
 Reconhecimentos e Direitos Autorais
 
 # autor:João Lima Ewerton, Kauã Ferreira Galeno e Matheus Ryan Carreiro Costa Correia
