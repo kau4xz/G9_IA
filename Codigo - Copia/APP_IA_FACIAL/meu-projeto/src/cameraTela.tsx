@@ -268,7 +268,7 @@ export default function CameraTela({ navigation }) {
               style={[styles.modalImage, facing === 'front' && { transform: [{ scaleX: -1 }] }]}
             />
 
-            <Botao mt={10} mb={1} children={"Descartar"} onPress={() => setOpen(false)} />
+            <Botao mt={10} mb={1} children={"teste"} onPress={() => setOpen(false)} />
             <Botao mt={1} mb={1} children={"Detectar Faces"} onPress={() => detectFaces(capturedPhoto)} />
           </View>
         </Modal>
